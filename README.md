@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# Run Buddy Inc.
-=======
 # Run Buddy, Inc
->>>>>>> 74252384a0d938c08dc33f5959dc67d04d84a8d2
+Lesson 2 Practice | Advanced CSS
+
+## Student Name
+Tara Brichetto
+
+## Creation Date
+08 August 2020
 
 ## Purpose
-A website that offers fitness training services. 
+A practice assigment to build on foundational HTML, CSS, and Git skills while learning advanced CSS.
 
-## Built With
+## Languages
 * HTML
 * CSS
 
-## Website
-https://tbrichet.github.io/run-buddy/
+## Links
+Deployed Application | https://tbrichet.github.io/run-buddy/ <br>
+Github Repository | https://github.com/tbrichet/run-buddy <br>
 
-## Contribution
-Made with ❤️ by Tara Brichetto
+## Programs and Contributions
+* Practice assignment provided by U of A Coding bootcamp <br>
 
-### ©️2019 Run Buddy, Inc 
+## Screenshot
+![Run Buddy Mockup](./screenshot.png)
